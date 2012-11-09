@@ -1,3 +1,20 @@
+
+
+This is a Rails application I used to complete Homework #4 for an Edx.org course : 
+CS196.1x, Software as a Service using Ruby on Rails.
+
+The original RottenPotatoes application was given to students and then we  were supposed to:
+use Cucumber & Rspec and BDD/TDD principles to add funcitonality to the application
+
+after installing the required gems, I had to:
+add a column to the Movie database table (and model) and run the rake task.
+using Cucumber & RSpec, create model & controller specs (plus a new route) and use SimpleCov to examine code coverage
+
+I kept the default (generated) readme file below
+
+
+
+================================================================================================================
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
